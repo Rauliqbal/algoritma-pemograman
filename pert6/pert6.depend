@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1776953129 source:/home/rauliqbal/Projects/Learn/pertemuan-6/pert6/main.cpp
+	<iostream>
+	<string.h>
+
